@@ -117,6 +117,30 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Noctis",
+      "species": "Feline",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Noctis",
+      "species": "Feline",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
